@@ -1,51 +1,49 @@
 # 📊 Tableau Dashboard Project
 
 ## 🔹 Project Overview
-This project is part of my **learning roadmap** in Data Analytics.  
-The goal is to build an **interactive Tableau dashboard** that visualizes key insights from a real-world dataset.  
-
-The dashboard demonstrates:
-- Data connection and preparation  
-- Interactive charts and filters  
-- Storytelling with visualizations  
+This project is part of my learning roadmap in Data Analytics. The goal is to build interactive Tableau dashboards that visualize key insights from real-world datasets, demonstrating data connection, preparation, interactive features, and storytelling.
 
 ---
 
-## 🔹 Learning Process
-- The dashboards in this project were created by following tutorials and guides from the official [Tableau Training](https://www.tableau.com/learn/training) website.
+## 🔹 Dashboards
+
+### 1. Executive Overview Dashboard
+This dashboard provides a high-level summary of the Superstore dataset.
+
+- **Features**:
+  - 📈 **Sales Trends**: Line chart showing sales over time.
+  - 🗺️ **Regional Performance**: Map illustrating performance by region.
+  - 📊 **Category Breakdown**: Bar chart showing sales by product category.
+  - 🔍 **Interactive Filters**: Filter by region, category, or date range.
+- **View Live**: [Tableau Public](https://public.tableau.com/app/profile/osandamadugalle/viz/ExecutiveOverview_17677857746820/ExecutiveOverview)
+- **Source Data**: [Sample - Superstore.xls](Executive%20Overview%20Dashboard/Sample%20-%20Superstore.xls)
+- **Tableau File**: [Executive Overview.twb](Executive%20Overview%20Dashboard/Executive%20Overview.twb)
+
+### 2. Convenience Store Dashboard
+This dashboard was created to practice and explore data relationships in Tableau.
+
+- **View File**: [Convenience Store.twbx](Convenience%20Store/Convenience%20Store.twbx)
+- **Source Data**: [convenience_store.xlsx](Convenience%20Store/convenience_store.xlsx)
 
 ---
 
-## 🔹 Data Preparation
-- Data cleaning for the datasets was performed in MS Excel.
-- For `A - Before Clean.xlsx`, I learned using this video tutorial: [Data Cleaning in Excel](https://youtu.be/H0tRB7M4VI8?si=5B0FWTFSWMNNdu0n). The cleaned file is [A - After Clean.xlsx](Data%20Clean%20-%20MS%20EXCEL/A%20-%20After%20Clean.xlsx).
-- For `B - Data Set.xlsx`, I learned using this video tutorial: [Data Cleaning in Excel](https://youtu.be/jxq4-KSB_OA?si=IOdUZCtim_eyiqt8). The dataset is [B - Data Set.xlsx](Data%20Clean%20-%20MS%20EXCEL/B%20-%20Data%20Set.xlsx).
+## 🔹 Development Process
 
----
+### Learning & Development
+- The dashboards were built by following tutorials and guides from the official [Tableau Training](https://www.tableau.com/learn/training) website.
 
-## 🔹 Executive Overview Dashboard
-- Visit my Tableau Public profile: [https://public.tableau.com/app/profile/osandamadugalle/viz/ExecutiveOverview_17677857746820/ExecutiveOverview](https://public.tableau.com/app/profile/osandamadugalle/viz/ExecutiveOverview_17677857746820/ExecutiveOverview)  
-- Source: [sample - superstore.xls](Executive%20Overview%20Dashboard/sample%20-%20superstore.xls)  
-- File: [View the Executive Overview Dashboard](Executive%20Overview%20Dashboard/Executive%20Overview.twb)
----
+### Data Preparation
+Data cleaning for the datasets was performed in MS Excel.
 
-## 🔹 Executive Overview Dashboard Features
-- 📈 **Sales Trends** – Line chart showing sales over time  
-- 🗺️ **Regional Performance** – Map or bar chart by region  
-- 📊 **Category Breakdown** – Pie chart or stacked bar chart  
-- 🔍 **Interactive Filters** – Filter by region, category, or date range  
-
----
-
-## 🔹 Convenience Store Dashboard
-- This dashboard explores data relationships in Tableau.
-- Dataset: [convenience_store.xlsx](Convenience%20Store/convenience_store.xlsx)
-- [View the Convenience Store Dashboard](Convenience%20Store/Convenience%20Store.twbx)
+- **Dataset A**:
+  - **Tutorial Followed**: [Data Cleaning in Excel (Video 1)](https://youtu.be/H0tRB7M4VI8?si=5B0FWTFSWMNNdu0n)
+  - **Files**: [Before Cleaning](Data%20Clean%20-%20MS%20EXCEL/A%20-%20Before%20Clean.xlsx) | [After Cleaning](Data%20Clean%20-%20MS%20EXCEL/A%20-%20After%20Clean.xlsx)
+- **Dataset B**:
+  - **Tutorial Followed**: [Data Cleaning in Excel (Video 2)](https://youtu.be/jxq4-KSB_OA?si=IOdUZCtim_eyiqt8)
+  - **File**: [B - Data Set.xlsx](Data%20Clean%20-%20MS%20EXCEL/B%20-%20Data%20Set.xlsx)
 
 ---
 
 ## 🔹 Author
 Created by **Osanda Madugalle**  
 🌐 [osandamadugalle.me](https://osandamadugalle.me)
-
----
