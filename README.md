@@ -12,7 +12,7 @@ The dashboard demonstrates:
 ---
 
 ## 🔹 Data Preparation
-- Data cleaning for the datasets was performed in MS Excel, following this tutorial: [Data Cleaning in Excel](https://youtu.be/H0tRB7M4VI8?si=5B0FWTFSWMNNdu0n).
+-  Data cleaning for the datasets was performed in MS Excel, and I learned using this video tutorial: [Data Cleaning in Excel](https://youtu.be/H0tRB7M4VI8?si=5B0FWTFSWMNNdu0n).
 - [Before cleaning](Data%20Clean%20-%20MS%20EXCEL/A%20-%20Before%20Clean.xlsx)
 - [After cleaning](Data%20Clean%20-%20MS%20EXCEL/A%20-%20After%20Clean.xlsx)
 
