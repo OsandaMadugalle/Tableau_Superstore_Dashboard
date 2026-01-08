@@ -20,8 +20,8 @@ The dashboard demonstrates:
 
 ## 🔹 Executive Overview Dashboard
 - Visit my Tableau Public profile: [https://public.tableau.com/app/profile/osandamadugalle/viz/ExecutiveOverview_17677857746820/ExecutiveOverview](https://public.tableau.com/app/profile/osandamadugalle/viz/ExecutiveOverview_17677857746820/ExecutiveOverview)  
-- Source: [sample - superstore.xls](sample%20-%20superstore.xls)  
-- [View the Executive Overview Dashboard](Executive%20Overview.twb)
+- Source: [sample - superstore.xls](Executive%20Overview%20Dashboard/sample%20-%20superstore.xls)  
+- File: [View the Executive Overview Dashboard](Executive%20Overview%20Dashboard/Executive%20Overview.twb)
 ---
 
 ## 🔹 Executive Overview Dashboard Features
@@ -34,8 +34,8 @@ The dashboard demonstrates:
 
 ## 🔹 Convenience Store Dashboard
 - This dashboard explores data relationships in Tableau.
-- Dataset: [convenience_store.xlsx](convenience_store.xlsx)
-- [View the Convenience Store Dashboard](Convenience%20Store.twbx)
+- Dataset: [convenience_store.xlsx](Convenience%20Store/convenience_store.xlsx)
+- [View the Convenience Store Dashboard](Convenience%20Store/Convenience%20Store.twbx)
 
 ---
 
