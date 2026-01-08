@@ -11,12 +11,13 @@ The dashboard demonstrates:
 
 ---
 
-## 🔹 Dataset
+## 🔹 Executive Overview Dashboard
+- Visit my Tableau Public profile: [https://public.tableau.com/app/profile/osandamadugalle/viz/ExecutiveOverview_17677857746820/ExecutiveOverview](https://public.tableau.com/app/profile/osandamadugalle/viz/ExecutiveOverview_17677857746820/ExecutiveOverview)  
 - Source: [sample - superstore.xls](sample%20-%20superstore.xls)  
-
+- [View the Executive Overview Dashboard](Executive%20Overview.twb)
 ---
 
-## 🔹 Dashboard Features
+## 🔹 Executive Overview Dashboard Features
 - 📈 **Sales Trends** – Line chart showing sales over time  
 - 🗺️ **Regional Performance** – Map or bar chart by region  
 - 📊 **Category Breakdown** – Pie chart or stacked bar chart  
@@ -28,19 +29,6 @@ The dashboard demonstrates:
 - This dashboard explores data relationships in Tableau.
 - Dataset: [convenience_store.xlsx](convenience_store.xlsx)
 - [View the Convenience Store Dashboard](Convenience%20Store.twbx)
-
----
-
-## 🔹 How to View the Dashboard
-1. Visit my Tableau Public profile: [https://public.tableau.com/app/profile/osandamadugalle/viz/ExecutiveOverview_17677857746820/ExecutiveOverview](https://public.tableau.com/app/profile/osandamadugalle/viz/ExecutiveOverview_17677857746820/ExecutiveOverview)  
-2. Or download the `.twb` / `.twbx` file from this repository and open in Tableau Desktop.  
-
----
-
-## 🔹 Key Insights
-- The West region consistently generated the highest sales, while the South region showed the most potential for growth.
-- Office Supplies, particularly binders and paper, were the most profitable sub-category.
-- A significant dip in sales was observed during Q2, suggesting seasonal trends that require further investigation.  
 
 ---
 
