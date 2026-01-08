@@ -11,6 +11,13 @@ The dashboard demonstrates:
 
 ---
 
+## 🔹 Data Preparation
+- Data cleaning for the datasets was performed in MS Excel, following this tutorial: [Data Cleaning in Excel](https://youtu.be/H0tRB7M4VI8?si=5B0FWTFSWMNNdu0n).
+- [Before cleaning](Data%20Clean%20-%20MS%20EXCEL/A%20-%20Before%20Clean.xlsx)
+- [After cleaning](Data%20Clean%20-%20MS%20EXCEL/A%20-%20After%20Clean.xlsx)
+
+---
+
 ## 🔹 Executive Overview Dashboard
 - Visit my Tableau Public profile: [https://public.tableau.com/app/profile/osandamadugalle/viz/ExecutiveOverview_17677857746820/ExecutiveOverview](https://public.tableau.com/app/profile/osandamadugalle/viz/ExecutiveOverview_17677857746820/ExecutiveOverview)  
 - Source: [sample - superstore.xls](sample%20-%20superstore.xls)  
