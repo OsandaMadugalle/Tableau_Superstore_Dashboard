@@ -47,6 +47,9 @@ Data cleaning for the datasets was performed in MS Excel.
 
 ---
 
+## 🔹 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## 🔹 Author
 Created by **Osanda Madugalle**  
 🌐 [osandamadugalle.me](https://osandamadugalle.me)
