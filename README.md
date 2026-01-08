@@ -11,6 +11,11 @@ The dashboard demonstrates:
 
 ---
 
+## 🔹 Learning Process
+- The dashboards in this project were created by following tutorials and guides from the official [Tableau Training](https://www.tableau.com/learn/training) website.
+
+---
+
 ## 🔹 Data Preparation
 - Data cleaning for the datasets was performed in MS Excel.
 - For `A - Before Clean.xlsx`, I learned using this video tutorial: [Data Cleaning in Excel](https://youtu.be/H0tRB7M4VI8?si=5B0FWTFSWMNNdu0n). The cleaned file is [A - After Clean.xlsx](Data%20Clean%20-%20MS%20EXCEL/A%20-%20After%20Clean.xlsx).
