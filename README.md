@@ -1,5 +1,8 @@
 # 📊 Tableau Dashboard Project
 
+![Dashboard Screenshot 1](Screenshots/01.png)
+![Dashboard Screenshot 2](Screenshots/02.png)
+
 ## 🔹 Project Overview
 This project is part of my learning roadmap in Data Analytics. The goal is to build interactive Tableau dashboards that visualize key insights from real-world datasets, demonstrating data connection, preparation, interactive features, and storytelling.
 
