@@ -24,6 +24,13 @@ The dashboard demonstrates:
 
 ---
 
+## 🔹 Convenience Store Dashboard
+- This dashboard explores data relationships in Tableau.
+- Dataset: [convenience_store.xlsx](convenience_store.xlsx)
+- [View the Convenience Store Dashboard](Convenience%20Store.twbx)
+
+---
+
 ## 🔹 How to View the Dashboard
 1. Visit my Tableau Public profile: [https://public.tableau.com/app/profile/osandamadugalle/viz/ExecutiveOverview_17677857746820/ExecutiveOverview](https://public.tableau.com/app/profile/osandamadugalle/viz/ExecutiveOverview_17677857746820/ExecutiveOverview)  
 2. Or download the `.twb` / `.twbx` file from this repository and open in Tableau Desktop.  
